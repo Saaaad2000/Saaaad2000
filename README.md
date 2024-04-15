@@ -4,6 +4,7 @@ I'm a Data Scientist and will graduate in August 2024 of a MS Degree in Applied 
 
 Passionate about using DS / ML to solve real-world problems and have an impact.
 
+<a href="[URL_REDIRECT](https://www.societegenerale.com/fr)" target="blank"></a>
 <!--
 **Saaaad2000/Saaaad2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
