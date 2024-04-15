@@ -1,6 +1,6 @@
 ### Hi there, I'm Saâd 👋
 
-I'm a Data Scientist and will graduate in August 2024 of a MS Degree in Applied Mathematics, Artificial Intelligence and Data Science.
+I'm a Data Scientist and will graduate in August 2024 of a MS Degree in Applied Mathematics, Artificial Intelligence and Data Science, from Ecole Centrale de Nantes.
 
 Passionate about using DS / ML to solve real-world problems and have an impact.
 
